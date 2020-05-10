@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BakingApp</string>
+
+    <string name="appwidget_text">Yellow Cake</string>
+    <string name="add_widget">Add widget</string>
+    <string name="recipe">Recipe</string>
+    <string name="directory">Directory</string>
+    <string name="empty_rc_message">No recipes are available at the time</string>
+    <string name="recipe_ingredients">Recipe Ingredients:</string>
 </resources>
